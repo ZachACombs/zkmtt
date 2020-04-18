@@ -21,7 +21,7 @@ namespace zkmtt
                     "zkmtt dump <source> [<destination>]     Writes content from <source> onto the console and/or if specified\n" +
                     "                                            <destination>.\n" +
                     "zkmtt decode <source> [<destination>]   Decodes content from <source> and creates an XML out of the content.\n" +
-                    "zkmtt encode <source> [<destination>]   Encodes content from <source> (an xml file> into a KMT file)."
+                    "zkmtt encode <source> [<destination>]   Encodes content from <source> (an xml file) into a KMT file."
                     );
             }
             void ShowError(string message)
